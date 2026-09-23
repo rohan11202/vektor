@@ -88,7 +88,3 @@ go test ./...
 ```
 
 Covers top-k order, exact search, HNSW and int8 recall floors, quantizer error bounds and save/load round trips.
-
-## License
-
-MIT
